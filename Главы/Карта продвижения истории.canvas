@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"87a1196cc22725ea","x":2,"y":3,"width":250,"height":60,"type":"text","text":"Сидней приходит к Дину "},
+		{"id":"ce4637ed960b5da4","x":7,"y":185,"width":250,"height":60,"type":"text","text":"Дин соглашается на открытие его дела"}
+	],
+	"edges":[
+		{"id":"c711f582466abaa9","fromNode":"87a1196cc22725ea","fromSide":"bottom","toNode":"ce4637ed960b5da4","toSide":"top"}
+	]
+}
