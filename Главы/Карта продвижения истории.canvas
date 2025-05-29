@@ -1,15 +1,41 @@
 {
 	"nodes":[
-		{"id":"87a1196cc22725ea","x":2,"y":3,"width":250,"height":60,"type":"text","text":"Сидней приходит к Дину "},
-		{"id":"743b5fc35c1d55e3","x":40,"y":186,"width":212,"height":134,"type":"text","text":"Дин отказывается работать с Сиднеем из-за его отношения к Дину"},
-		{"id":"62f409e3b95d09c4","x":-15,"y":461,"width":235,"height":99,"type":"text","text":"Сидней упрашивает Дина, чтобы тот согласился"},
-		{"id":"af87820013794c6b","x":-136,"y":704,"width":250,"height":60,"type":"text","text":"Дин отказывается "},
-		{"id":"4f4c6072a9d07454","x":140,"y":697,"width":210,"height":67,"type":"text","text":"Дин соглашается"}
+		{"id":"87a1196cc22725ea","type":"text","text":"Дин уже не первый год сомневается насчет выбора профессии","x":-440,"y":156,"width":250,"height":97},
+		{"id":"811d9ac1549e55e0","type":"text","text":"Сидней резко реагирует по отношению к койоту, но вскоре объясняет зачем пришел","x":460,"y":144,"width":250,"height":121},
+		{"id":"a0abf34b87276431","type":"text","text":"Дин не хочет браться за очередного сумасшедшего","x":920,"y":159,"width":250,"height":106},
+		{"id":"743b5fc35c1d55e3","type":"text","text":"Придя в офис, в скором времени, он знакомится с Сиднеем","x":20,"y":159,"width":240,"height":109},
+		{"id":"62f409e3b95d09c4","type":"text","text":"Сидней упрашивает Дина, чтобы тот согласился","x":1360,"y":189,"width":235,"height":99},
+		{"id":"af87820013794c6b","type":"text","text":"Дин отказывается ","x":1800,"y":129,"width":250,"height":60},
+		{"id":"4f4c6072a9d07454","type":"text","text":"Дин вспоминает, что Сидней потерял отца в [[Эхо]]","x":1800,"y":326,"width":210,"height":94},
+		{"id":"9c6dabbcdcd20405","type":"text","text":"Дин соглашается, после дополнительной лести","x":2140,"y":326,"width":250,"height":70},
+		{"id":"b614d4e043b37c1b","type":"text","text":"На обеде, Дин узнает поставленную цену за раскрытие","x":2520,"y":304,"width":250,"height":108},
+		{"id":"c6ecd604d84839a5","type":"text","text":"Деньги, в руках его противника - Мартина","x":2920,"y":342,"width":250,"height":60},
+		{"id":"b1d03e9ecb6b4b61","type":"text","text":"Дину приходится согласится","x":3320,"y":328,"width":250,"height":60},
+		{"id":"2ea14dde502571b0","type":"text","text":"К вечеру, приезжает уже более спокойный и уравновешенный Сидней на достаточно старом пикапе","x":3720,"y":311,"width":287,"height":129},
+		{"id":"1449a5101efa24dd","type":"text","text":"Дин садится в его машину и они едут в Эхо","x":4160,"y":342,"width":250,"height":60},
+		{"id":"0f2552b7f8da59fa","type":"text","text":"Сидней яро реагирует на проезжающие машины, нарушая несколько прав ПДД","x":4907,"y":346,"width":293,"height":87},
+		{"id":"874a8e0b009c88b4","type":"text","text":"Сидней не пристегивается, используя заглушку. ","x":4540,"y":340,"width":220,"height":87},
+		{"id":"04e789ea1f9a31fd","type":"text","text":"Дин замечает, около коробки передач, револьвер","x":5320,"y":346,"width":250,"height":107},
+		{"id":"6d778251dd56759f","type":"text","text":"Только Дин хотел спросить насчет него, как Сидней поставил диск рэпера South и сказал, что у него есть лицензия на оружие","x":5700,"y":310,"width":283,"height":159},
+		{"id":"bb9001033b0f036f","type":"text","text":"По прибытию в Эхо, Дин услышал гул","x":6120,"y":373,"width":250,"height":60}
 	],
 	"edges":[
-		{"id":"ad6bfb8da25fa49a","fromNode":"87a1196cc22725ea","fromSide":"bottom","toNode":"743b5fc35c1d55e3","toSide":"top"},
-		{"id":"23168d8f3ac1604c","fromNode":"743b5fc35c1d55e3","fromSide":"bottom","toNode":"62f409e3b95d09c4","toSide":"top"},
-		{"id":"367abbdd07362c80","fromNode":"62f409e3b95d09c4","fromSide":"bottom","toNode":"af87820013794c6b","toSide":"top"},
-		{"id":"7521c00d0d65628c","fromNode":"62f409e3b95d09c4","fromSide":"bottom","toNode":"4f4c6072a9d07454","toSide":"top"}
+		{"id":"ad6bfb8da25fa49a","fromNode":"87a1196cc22725ea","fromSide":"right","toNode":"743b5fc35c1d55e3","toSide":"left"},
+		{"id":"15bf5336d9ddca8c","fromNode":"743b5fc35c1d55e3","fromSide":"right","toNode":"811d9ac1549e55e0","toSide":"left"},
+		{"id":"68dd3bb0c4b62cc4","fromNode":"811d9ac1549e55e0","fromSide":"right","toNode":"a0abf34b87276431","toSide":"left"},
+		{"id":"aa0496a6bd64e94d","fromNode":"a0abf34b87276431","fromSide":"right","toNode":"62f409e3b95d09c4","toSide":"left"},
+		{"id":"1fe0d8d3786171a0","fromNode":"62f409e3b95d09c4","fromSide":"right","toNode":"af87820013794c6b","toSide":"left"},
+		{"id":"bf620244e3873c42","fromNode":"62f409e3b95d09c4","fromSide":"right","toNode":"4f4c6072a9d07454","toSide":"left"},
+		{"id":"18e7bd26f7d56a06","fromNode":"4f4c6072a9d07454","fromSide":"right","toNode":"9c6dabbcdcd20405","toSide":"left"},
+		{"id":"6b3b31ba4863a741","fromNode":"9c6dabbcdcd20405","fromSide":"right","toNode":"b614d4e043b37c1b","toSide":"left"},
+		{"id":"87c7b5e6ed5cd3e3","fromNode":"b614d4e043b37c1b","fromSide":"right","toNode":"c6ecd604d84839a5","toSide":"left"},
+		{"id":"ae82b35b208e5210","fromNode":"c6ecd604d84839a5","fromSide":"right","toNode":"b1d03e9ecb6b4b61","toSide":"left"},
+		{"id":"82edd49d9ee4d57b","fromNode":"b1d03e9ecb6b4b61","fromSide":"right","toNode":"2ea14dde502571b0","toSide":"left"},
+		{"id":"82ec4259fddb59c0","fromNode":"2ea14dde502571b0","fromSide":"right","toNode":"1449a5101efa24dd","toSide":"left"},
+		{"id":"d600b6aff908e5cc","fromNode":"1449a5101efa24dd","fromSide":"right","toNode":"874a8e0b009c88b4","toSide":"left"},
+		{"id":"77f833e12ce4648d","fromNode":"874a8e0b009c88b4","fromSide":"right","toNode":"0f2552b7f8da59fa","toSide":"left"},
+		{"id":"7617f7687caca302","fromNode":"0f2552b7f8da59fa","fromSide":"right","toNode":"04e789ea1f9a31fd","toSide":"left"},
+		{"id":"b983d79c86c7bdf7","fromNode":"04e789ea1f9a31fd","fromSide":"right","toNode":"6d778251dd56759f","toSide":"left"},
+		{"id":"03275dda101188ac","fromNode":"6d778251dd56759f","fromSide":"right","toNode":"bb9001033b0f036f","toSide":"left"}
 	]
 }
