@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"ac6bc09520953577","x":57,"y":11,"width":143,"height":69,"type":"text","text":"Фротенд"},
+		{"id":"531aae534fcdfbb8","x":-114,"y":178,"width":154,"height":62,"type":"text","text":"HTML"},
+		{"id":"910a5c49dd815904","x":142,"y":175,"width":158,"height":65,"type":"text","text":"CSS"}
+	],
+	"edges":[
+		{"id":"bd5d43ab80dbd372","fromNode":"ac6bc09520953577","fromSide":"bottom","toNode":"531aae534fcdfbb8","toSide":"top"},
+		{"id":"b1cc8242df89246f","fromNode":"ac6bc09520953577","fromSide":"bottom","toNode":"910a5c49dd815904","toSide":"top"}
+	]
+}
