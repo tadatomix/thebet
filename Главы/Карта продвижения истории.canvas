@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"400de8ad9b75bad4","type":"group","x":-460,"y":1160,"width":620,"height":5180,"color":"4","label":"Дело 1"},
+		{"id":"400de8ad9b75bad4","type":"group","x":-460,"y":1180,"width":1132,"height":5160,"color":"4","label":"Дело 1"},
 		{"id":"ec1befdca1f4d917","type":"group","x":-135,"y":2260,"width":295,"height":4080,"color":"3","label":"Глава 2"},
 		{"id":"f4a723cd4e7b14f4","type":"group","x":-460,"y":560,"width":620,"height":1634,"color":"3","label":"Глава 1"},
 		{"id":"209870707a6bf04d","type":"group","x":-460,"y":136,"width":2900,"height":322,"label":"Первая глава"},
