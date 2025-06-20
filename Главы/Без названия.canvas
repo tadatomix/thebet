@@ -1,6 +1,9 @@
 {
 	"nodes":[
-		{"id":"887fd53476ac1297","x":23,"y":15,"width":257,"height":185,"type":"text","text":"Таблица цитат\n- Id_Цитаты\n- Цитата\n- Автор\n- Источник"}
+		{"id":"887fd53476ac1297","x":23,"y":15,"width":257,"height":185,"type":"text","text":"Таблица цитат\n- Id_Цитаты\n- Цитата\n- Автор\n- Источник"},
+		{"id":"0b8292be073c7a9d","x":427,"y":125,"width":250,"height":60,"type":"text","text":"Таблица Авторы"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"f8fe447bf1409856","fromNode":"887fd53476ac1297","fromSide":"right","toNode":"0b8292be073c7a9d","toSide":"left"}
+	]
 }
