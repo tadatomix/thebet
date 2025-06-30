@@ -53,8 +53,7 @@
 		{"id":"75927224864a3378","type":"text","text":"Место для истории сиднея","x":422,"y":1199,"width":250,"height":60},
 		{"id":"b1251f20d0dae8e8","type":"text","text":"Ему не нравится Дин, из-за чего, он общается с ним резко ","x":-274,"y":970,"width":250,"height":110,"color":"1"},
 		{"id":"14d9a5652acd831b","type":"text","text":"Придя в очередной раз, он, впервые знакомится с [[Бронсон Сидней|Сиднеем]]","x":-274,"y":740,"width":250,"height":100},
-		{"id":"d1821f80fb04844e","type":"text","text":"[[Хуньдунь Тоутан (Дин)|Дин]] ненавидит свою работу","x":-274,"y":580,"width":250,"height":60,"color":"1"},
-		{"id":"d29c6cfe97e5fcc8","x":-136,"y":6397,"width":250,"height":60,"type":"text","text":"тест"}
+		{"id":"d1821f80fb04844e","type":"text","text":"[[Хуньдунь Тоутан (Дин)|Дин]] ненавидит свою работу","x":-274,"y":580,"width":250,"height":60,"color":"1"}
 	],
 	"edges":[
 		{"id":"ad6bfb8da25fa49a","fromNode":"87a1196cc22725ea","fromSide":"right","toNode":"743b5fc35c1d55e3","toSide":"left"},
@@ -102,7 +101,6 @@
 		{"id":"266e5a5b6d3fb641","fromNode":"3aa225ce59dda10a","fromSide":"bottom","toNode":"b90912accb580ed9","toSide":"top"},
 		{"id":"5906e56552d0562c","fromNode":"b90912accb580ed9","fromSide":"bottom","toNode":"f4c7aee0c290633f","toSide":"top"},
 		{"id":"28c527240c8064ea","fromNode":"f4c7aee0c290633f","fromSide":"bottom","toNode":"5b0fd14f89914446","toSide":"top"},
-		{"id":"c6fecb3a4dd0f0a6","fromNode":"3384d6d8fc474669","fromSide":"right","toNode":"75927224864a3378","toSide":"left"},
-		{"id":"c73c36da23931a55","fromNode":"5b0fd14f89914446","fromSide":"bottom","toNode":"d29c6cfe97e5fcc8","toSide":"top"}
+		{"id":"c6fecb3a4dd0f0a6","fromNode":"3384d6d8fc474669","fromSide":"right","toNode":"75927224864a3378","toSide":"left"}
 	]
 }
