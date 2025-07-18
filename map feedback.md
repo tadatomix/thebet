@@ -14,3 +14,4 @@
 	7. 00:23:650 (1);00:27:584 (1) - is quite boring, might need a different rhythm
 	8. have wrong follow of a pitch. higher one better should be followed with notes, lower with sliders
 	9. 00:30:044 (1,2,3,4) - SV and spacing here should have a better vocal following 
+	10. 00:31:519 (1,2,1,2) - good symetry pattern
