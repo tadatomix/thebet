@@ -6,3 +6,5 @@
 	2. object relations aren't made well
 3. piece of me
 	1. change the spacing for better following the piano
+	2. 00:10:617 (2) - not a good simplification, since it's better to follow syllables, instead of a full word
+	3. 
