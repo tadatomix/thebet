@@ -11,5 +11,5 @@
 	4. patterning for specific instrument is more than welcome
 	5. 00:18:240 (1,2) -  - should be more consistent
 	6. less stacking, since it's not a slowpart (*in case with such a song*)
-	7. 00:23:650 (1) - is quite boring, might need a different rhythm
-	8. 
+	7. 00:23:650 (1);00:27:584 (1) - is quite boring, might need a different rhythm
+	8. have wrong follow of a pitch. higher one better should be followed with notes, lower with sliders
