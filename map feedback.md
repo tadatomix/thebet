@@ -17,4 +17,4 @@
 	10. 00:31:519 (1,2,1,2) - good symetry pattern
 	11. Overall chorus might need more intensity
 	12. Make more equilateral triangles in patterns
-	13. 
+	13. 00:39:388 (1) - not the best overlap
