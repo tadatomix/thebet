@@ -7,4 +7,4 @@
 3. piece of me
 	1. change the spacing for better following the piano
 	2. 00:10:617 (2) - not a good simplification, since it's better to follow syllables, instead of a full word
-	3. 
+	3. 00:12:093 (2) - should have a better rotation for connection with straight slider
