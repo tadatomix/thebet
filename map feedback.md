@@ -16,4 +16,5 @@
 	9. 00:30:044 (1,2,3,4) - SV and spacing here should have a better vocal following 
 	10. 00:31:519 (1,2,1,2) - good symetry pattern
 	11. Overall chorus might need more intensity
-	12. Make more ecoletoral triangles 
+	12. Make more equilateral triangles in patterns
+	13. 
