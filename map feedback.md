@@ -8,3 +8,7 @@
 	1. change the spacing for better following the piano
 	2. 00:10:617 (2) - not a good simplification, since it's better to follow syllables, instead of a full word
 	3. 00:12:093 (2) - should have a better rotation for connection with straight slider
+	4. patterning for specific instrument is more than welcome
+	5. 00:18:240 (1,2) -  - should be more consistent
+	6. less stacking, since it's not a slowpart (*in case with such a song*)
+	7. 
