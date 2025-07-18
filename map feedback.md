@@ -13,3 +13,4 @@
 	6. less stacking, since it's not a slowpart (*in case with such a song*)
 	7. 00:23:650 (1);00:27:584 (1) - is quite boring, might need a different rhythm
 	8. have wrong follow of a pitch. higher one better should be followed with notes, lower with sliders
+	9. 00:30:044 (1,2,3,4) - SV and spacing here should have a better vocal following 
