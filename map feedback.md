@@ -5,4 +5,4 @@
 	1. it's a funky freeform. that's good, but needs better implementation
 	2. object relations aren't made well
 3. piece of me
-	1. change the spacing for better following the piano 
+	1. change the spacing for better following the piano
