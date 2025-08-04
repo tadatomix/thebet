@@ -24,3 +24,5 @@
 	
 	- basic patterning is okay
 	- axis use on this map isn't bad
+4. hung up
+	1. 
