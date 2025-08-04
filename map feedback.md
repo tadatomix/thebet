@@ -25,4 +25,5 @@
 	- basic patterning is okay
 	- axis use on this map isn't bad
 4. hung up
-	1. 
+	1. maybe better to adjust the slider at 04:27 for better connection between these 3
+	2. 
