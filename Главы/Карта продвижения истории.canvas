@@ -54,7 +54,14 @@
 		{"id":"15b34f50ec885588","type":"text","text":"Будучи азартным человеком, Дин соглашается","x":-115,"y":2920,"width":250,"height":88,"color":"1"},
 		{"id":"9e23db14cdd4c4b8","type":"text","text":"Дин никогда не получал столько и Мартин об этом знает, из-за чего он решает устроить пари.","x":-115,"y":2680,"width":250,"height":160},
 		{"id":"4add38c408160702","type":"text","text":"Дин вспоминает, что Сидней потерял отца в [[Эхо]]","x":-110,"y":1819,"width":240,"height":94},
-		{"id":"135ab2299db255e5","x":-115,"y":5400,"width":250,"height":100,"type":"text","text":"Дин достает фонарик и начинает обыскивать фургон"}
+		{"id":"135ab2299db255e5","type":"text","text":"Дин достает фонарик и начинает обыскивать фургон","x":-115,"y":5400,"width":250,"height":100},
+		{"id":"8df45735b2bbe33d","type":"text","text":"Дин замечает несколько листовок. На одной из них, был номер телефона","x":-115,"y":5560,"width":250,"height":118,"color":"2"},
+		{"id":"3b2d6229a059e32c","type":"text","text":"Дин решает позвонить, но слышит только автоответчик. ","x":-115,"y":5740,"width":250,"height":100},
+		{"id":"10c7cfc870301484","type":"text","text":"Оставив сообщение, Дин смотрит остальные листовки","x":-115,"y":5900,"width":250,"height":100},
+		{"id":"4b6e0d4d35c39852","type":"text","text":"Сидней замечает знакомую фамилию и говорит об этом Дину","x":-115,"y":6060,"width":250,"height":100,"color":"2"},
+		{"id":"a857a557de72ad65","type":"text","text":"Продолжая поиск, Дин замечает пули от дробовика","x":-115,"y":6220,"width":250,"height":100,"color":"2"},
+		{"id":"8b2f015b3fd59b12","type":"text","text":"Взломав замок фургона, Дин заходит внутрь","x":-115,"y":6380,"width":250,"height":100},
+		{"id":"c655f298cc429b7f","type":"text","text":"Дин слышит звук радио и видит незнакомую выдру","x":-115,"y":6540,"width":250,"height":100,"color":"1"}
 	],
 	"edges":[
 		{"id":"ad6bfb8da25fa49a","fromNode":"87a1196cc22725ea","fromSide":"right","toNode":"743b5fc35c1d55e3","toSide":"left"},
@@ -103,6 +110,13 @@
 		{"id":"b0b5929d1106e1b8","fromNode":"2755177300374082","fromSide":"bottom","toNode":"caf5283c700ada81","toSide":"top"},
 		{"id":"bc018908517e15c2","fromNode":"caf5283c700ada81","fromSide":"bottom","toNode":"f45eeb2734a0812d","toSide":"top"},
 		{"id":"e523e8326168d48a","fromNode":"3aa225ce59dda10a","fromSide":"bottom","toNode":"5b0fd14f89914446","toSide":"top"},
-		{"id":"5d7aa91157030203","fromNode":"5b0fd14f89914446","fromSide":"bottom","toNode":"135ab2299db255e5","toSide":"top"}
+		{"id":"5d7aa91157030203","fromNode":"5b0fd14f89914446","fromSide":"bottom","toNode":"135ab2299db255e5","toSide":"top"},
+		{"id":"5916a4c76ea81e46","fromNode":"135ab2299db255e5","fromSide":"bottom","toNode":"8df45735b2bbe33d","toSide":"top"},
+		{"id":"6f9b56c31f53e5e8","fromNode":"8df45735b2bbe33d","fromSide":"bottom","toNode":"3b2d6229a059e32c","toSide":"top"},
+		{"id":"0ad91dd47c7e800f","fromNode":"3b2d6229a059e32c","fromSide":"bottom","toNode":"10c7cfc870301484","toSide":"top"},
+		{"id":"a6093419d0b0f0eb","fromNode":"10c7cfc870301484","fromSide":"bottom","toNode":"4b6e0d4d35c39852","toSide":"top"},
+		{"id":"990dfe50432814e7","fromNode":"4b6e0d4d35c39852","fromSide":"bottom","toNode":"a857a557de72ad65","toSide":"top"},
+		{"id":"ace114998c1cc098","fromNode":"a857a557de72ad65","fromSide":"bottom","toNode":"8b2f015b3fd59b12","toSide":"top"},
+		{"id":"342924046b0533b4","fromNode":"8b2f015b3fd59b12","fromSide":"bottom","toNode":"c655f298cc429b7f","toSide":"top"}
 	]
 }
