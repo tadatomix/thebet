@@ -1,7 +1,7 @@
 {
 	"nodes":[
-		{"id":"400de8ad9b75bad4","type":"group","x":-460,"y":1180,"width":1132,"height":5160,"color":"4","label":"Дело 1"},
-		{"id":"ec1befdca1f4d917","type":"group","x":-135,"y":2260,"width":295,"height":4080,"color":"3","label":"Глава 2"},
+		{"id":"400de8ad9b75bad4","type":"group","x":-460,"y":1180,"width":1132,"height":5880,"color":"4","label":"Дело 1"},
+		{"id":"ec1befdca1f4d917","type":"group","x":-135,"y":2260,"width":295,"height":4800,"color":"3","label":"Глава 2"},
 		{"id":"f4a723cd4e7b14f4","type":"group","x":-460,"y":560,"width":620,"height":1634,"color":"3","label":"Глава 1"},
 		{"id":"209870707a6bf04d","type":"group","x":-460,"y":136,"width":2900,"height":322,"label":"Первая глава"},
 		{"id":"c0d3f00d63c2fbf6","type":"group","x":2520,"y":259,"width":4420,"height":199,"label":"Вторая глава"},
@@ -58,10 +58,12 @@
 		{"id":"8df45735b2bbe33d","type":"text","text":"Дин замечает несколько листовок. На одной из них, был номер телефона","x":-115,"y":5560,"width":250,"height":118,"color":"2"},
 		{"id":"3b2d6229a059e32c","type":"text","text":"Дин решает позвонить, но слышит только автоответчик. ","x":-115,"y":5740,"width":250,"height":100},
 		{"id":"10c7cfc870301484","type":"text","text":"Оставив сообщение, Дин смотрит остальные листовки","x":-115,"y":5900,"width":250,"height":100},
-		{"id":"4b6e0d4d35c39852","type":"text","text":"Сидней замечает знакомую фамилию и говорит об этом Дину","x":-115,"y":6060,"width":250,"height":100,"color":"2"},
-		{"id":"a857a557de72ad65","type":"text","text":"Продолжая поиск, Дин замечает пули от дробовика","x":-115,"y":6220,"width":250,"height":100,"color":"2"},
-		{"id":"8b2f015b3fd59b12","type":"text","text":"Взломав замок фургона, Дин заходит внутрь","x":-115,"y":6380,"width":250,"height":100},
-		{"id":"c655f298cc429b7f","type":"text","text":"Дин слышит звук радио и видит незнакомую выдру","x":-115,"y":6540,"width":250,"height":100,"color":"1"}
+		{"id":"c655f298cc429b7f","type":"text","text":"Дин слышит звук радио и видит незнакомую выдру","x":-115,"y":6380,"width":250,"height":100,"color":"1"},
+		{"id":"8b2f015b3fd59b12","type":"text","text":"Взломав замок фургона, Дин заходит внутрь","x":-115,"y":6220,"width":250,"height":100},
+		{"id":"a857a557de72ad65","type":"text","text":"Продолжая поиск, Дин замечает пули от дробовика","x":-115,"y":6060,"width":250,"height":100,"color":"2"},
+		{"id":"0072a8fbdab02ae0","type":"text","text":"Не найдя более ценных улик, они оба решают разъехаться, до следующей встречи","x":-115,"y":6540,"width":250,"height":120},
+		{"id":"1ac3ee3e875ab172","type":"text","text":"Приехав в офис, Дин уже считает дело проваленным","x":-115,"y":6720,"width":250,"height":100},
+		{"id":"5c27ee769123e873","type":"text","text":"Приехав в офис, Дин уже считает дело проваленным","x":-115,"y":6880,"width":250,"height":100}
 	],
 	"edges":[
 		{"id":"ad6bfb8da25fa49a","fromNode":"87a1196cc22725ea","fromSide":"right","toNode":"743b5fc35c1d55e3","toSide":"left"},
@@ -114,9 +116,11 @@
 		{"id":"5916a4c76ea81e46","fromNode":"135ab2299db255e5","fromSide":"bottom","toNode":"8df45735b2bbe33d","toSide":"top"},
 		{"id":"6f9b56c31f53e5e8","fromNode":"8df45735b2bbe33d","fromSide":"bottom","toNode":"3b2d6229a059e32c","toSide":"top"},
 		{"id":"0ad91dd47c7e800f","fromNode":"3b2d6229a059e32c","fromSide":"bottom","toNode":"10c7cfc870301484","toSide":"top"},
-		{"id":"a6093419d0b0f0eb","fromNode":"10c7cfc870301484","fromSide":"bottom","toNode":"4b6e0d4d35c39852","toSide":"top"},
-		{"id":"990dfe50432814e7","fromNode":"4b6e0d4d35c39852","fromSide":"bottom","toNode":"a857a557de72ad65","toSide":"top"},
 		{"id":"ace114998c1cc098","fromNode":"a857a557de72ad65","fromSide":"bottom","toNode":"8b2f015b3fd59b12","toSide":"top"},
-		{"id":"342924046b0533b4","fromNode":"8b2f015b3fd59b12","fromSide":"bottom","toNode":"c655f298cc429b7f","toSide":"top"}
+		{"id":"342924046b0533b4","fromNode":"8b2f015b3fd59b12","fromSide":"bottom","toNode":"c655f298cc429b7f","toSide":"top"},
+		{"id":"060901cd645a7b09","fromNode":"10c7cfc870301484","fromSide":"bottom","toNode":"a857a557de72ad65","toSide":"top"},
+		{"id":"0a50cad3d28181e4","fromNode":"c655f298cc429b7f","fromSide":"bottom","toNode":"0072a8fbdab02ae0","toSide":"top"},
+		{"id":"acfebfb0864da962","fromNode":"0072a8fbdab02ae0","fromSide":"bottom","toNode":"1ac3ee3e875ab172","toSide":"top"},
+		{"id":"beb5128cb6765824","fromNode":"1ac3ee3e875ab172","fromSide":"bottom","toNode":"5c27ee769123e873","toSide":"top"}
 	]
 }
