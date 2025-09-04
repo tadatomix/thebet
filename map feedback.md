@@ -30,4 +30,4 @@
 	3. Patterning on the beginning of 1st kiai is not good. Overall grouping in it isn't great as well
 	4. Be more mindful with a direction of object patterning
 5. bipp
-	1. 
+	1. broke axis at 10th object in the intro. very noticeable 
