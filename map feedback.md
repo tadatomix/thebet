@@ -31,3 +31,5 @@
 	4. Be more mindful with a direction of object patterning
 5. bipp
 	1. broke axis at 10th object in the intro. very noticeable 
+	2. also broke the blanket for the same object
+	3. 
