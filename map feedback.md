@@ -29,4 +29,5 @@
 	2. 04:33 move it a bit to the left 
 	3. Patterning on the beginning of 1st kiai is not good. Overall grouping in it isn't great as well
 	4. Be more mindful with a direction of object patterning
-	5. 
+5. bipp
+	1. 
