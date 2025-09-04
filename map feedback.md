@@ -33,4 +33,5 @@
 	1. broke axis at 10th object in the intro. very noticeable 
 	2. also broke the blanket for the same object
 	3. transition to verse feels very random (18th seconds)
-	4. overlap on 25th second is odd
+	4. overlaps on 25th second is odd. too many overlaps should've been avoided
+	5. 
