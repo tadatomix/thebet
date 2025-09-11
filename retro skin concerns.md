@@ -10,4 +10,5 @@ i think single comboburst sprite should be instead
 countdown (obv)
 sectionpass (obv)
 spectator list should be above leaderboard 
+skin layout breaks scorepoints
 
