@@ -5,3 +5,5 @@ inputoverlay text isn't white
 geki/katu (obv)
 combofire (obv)
 combobursts (obv)
+spectator list should be above leaderboard
+
