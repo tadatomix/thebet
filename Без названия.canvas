@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"86160a2c0dc238c0","x":-130,"y":-60,"width":270,"height":280,"type":"text","text":"![[Pasted image 20250911220836.png]]"},
+		{"id":"79ca7f5b71d85b1a","x":-219,"y":379,"width":250,"height":60,"type":"text","text":"лесбиянка"},
+		{"id":"ea0d8e47e2872663","x":-600,"y":-33,"width":250,"height":60,"type":"text","text":"радфем"},
+		{"id":"d104f0125ceb1156","x":15,"y":-280,"width":250,"height":60,"type":"text","text":"женщина"},
+		{"id":"1e5f1e0b980a941c","x":400,"y":-33,"width":250,"height":60,"type":"text","text":"художница"},
+		{"id":"a51f2cf2f556519c","x":905,"y":-80,"width":250,"height":60,"type":"text","text":"рисует фентези"},
+		{"id":"5689ecaa69ef7231","x":600,"y":120,"width":250,"height":60,"type":"text","text":"постоянно просит купить коммишки"},
+		{"id":"ff993a9019464064","x":-640,"y":99,"width":250,"height":60,"type":"text","text":"не агрессирует на людей в чате"}
+	],
+	"edges":[
+		{"id":"194f416b61710065","fromNode":"86160a2c0dc238c0","fromSide":"top","toNode":"d104f0125ceb1156","toSide":"bottom"},
+		{"id":"9445c0b516085990","fromNode":"86160a2c0dc238c0","fromSide":"right","toNode":"1e5f1e0b980a941c","toSide":"left"},
+		{"id":"f76f50f16a14974b","fromNode":"86160a2c0dc238c0","fromSide":"bottom","toNode":"79ca7f5b71d85b1a","toSide":"top"},
+		{"id":"c6ff532ba27852df","fromNode":"86160a2c0dc238c0","fromSide":"left","toNode":"ea0d8e47e2872663","toSide":"right"},
+		{"id":"f6f9dfe1a252ae00","fromNode":"1e5f1e0b980a941c","fromSide":"bottom","toNode":"5689ecaa69ef7231","toSide":"top"},
+		{"id":"11b2b47f14c4513d","fromNode":"1e5f1e0b980a941c","fromSide":"right","toNode":"a51f2cf2f556519c","toSide":"left"},
+		{"id":"8ffa3537549e0587","fromNode":"ea0d8e47e2872663","fromSide":"bottom","toNode":"ff993a9019464064","toSide":"top"}
+	]
+}
