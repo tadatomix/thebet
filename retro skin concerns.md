@@ -11,4 +11,5 @@ countdown (obv)
 sectionpass (obv)
 spectator list should be above leaderboard 
 skin layout breaks scorepoints
+300 should be at the end of the slider
 
