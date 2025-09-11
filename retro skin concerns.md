@@ -5,5 +5,8 @@ inputoverlay text isn't white
 geki/katu (obv)
 combofire (obv)
 combobursts (obv)
+i think single comboburst sprite should be instead
 countdown (obv)
+sectionpass (obv)
 spectator list should be above leaderboard
+
