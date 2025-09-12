@@ -2,20 +2,22 @@
 	"nodes":[
 		{"id":"4198e85a3f30c2b6","type":"text","text":"20 лет","x":-183,"y":-280,"width":115,"height":56},
 		{"id":"b4f357e8f4dc4bc9","type":"file","file":"Pornhub-logo.svg.png","x":1960,"y":-3,"width":400,"height":142},
-		{"id":"b18aa8d12f47b80e","x":-183,"y":-20,"width":231,"height":231,"type":"file","file":"Pasted image 20250911220836.png"},
-		{"id":"9b377dddc71098e5","x":256,"y":-248,"width":104,"height":50,"type":"text","text":"калека"},
+		{"id":"b18aa8d12f47b80e","type":"file","file":"Pasted image 20250911220836.png","x":-183,"y":-20,"width":231,"height":231},
+		{"id":"9b377dddc71098e5","type":"text","text":"калека","x":256,"y":-248,"width":104,"height":50},
 		{"id":"d104f0125ceb1156","type":"text","text":"женщина","x":31,"y":-224,"width":125,"height":50},
 		{"id":"ea0d8e47e2872663","type":"text","text":"радфем","x":-450,"y":-28,"width":120,"height":50},
 		{"id":"1e5f1e0b980a941c","type":"text","text":"художница","x":156,"y":-33,"width":140,"height":60},
 		{"id":"5689ecaa69ef7231","type":"text","text":"постоянно просит купить коммишки","x":180,"y":129,"width":180,"height":91},
 		{"id":"a51f2cf2f556519c","type":"text","text":"рисует фентези","x":440,"y":-58,"width":175,"height":50},
-		{"id":"9eebaef29bf59b97","x":460,"y":96,"width":172,"height":50,"type":"text","text":"в стиле аватар"},
-		{"id":"280204e849eb7f5a","x":-360,"y":-174,"width":177,"height":50,"type":"text","text":"есть дилдо 2 шт"},
-		{"id":"d15ca85edf4d69b9","x":141,"y":-400,"width":115,"height":50,"type":"text","text":"кобыла"},
-		{"id":"6d2260893bf73db6","x":-421,"y":-308,"width":121,"height":60,"type":"text","text":"и пробка"},
+		{"id":"9eebaef29bf59b97","type":"text","text":"в стиле аватар","x":460,"y":96,"width":172,"height":50},
+		{"id":"280204e849eb7f5a","type":"text","text":"есть дилдо 2 шт","x":-360,"y":-174,"width":177,"height":50},
+		{"id":"d15ca85edf4d69b9","type":"text","text":"кобыла","x":141,"y":-400,"width":115,"height":50},
+		{"id":"6d2260893bf73db6","type":"text","text":"и пробка","x":-421,"y":-308,"width":121,"height":60},
 		{"id":"ff993a9019464064","type":"text","text":"не агрессирует на людей в чате","x":-469,"y":96,"width":250,"height":60},
-		{"id":"3f5893d4a45b4549","x":-610,"y":211,"width":250,"height":60,"type":"text","text":"кроме денчика"},
-		{"id":"79ca7f5b71d85b1a","type":"text","text":"лесбиянка","x":-201,"y":271,"width":151,"height":50}
+		{"id":"3f5893d4a45b4549","type":"text","text":"кроме денчика","x":-610,"y":211,"width":250,"height":60},
+		{"id":"79ca7f5b71d85b1a","type":"text","text":"лесбиянка","x":-201,"y":271,"width":151,"height":50},
+		{"id":"c0d5d51ff74ffc8e","x":-660,"y":-144,"width":126,"height":60,"type":"text","text":"есть тату"},
+		{"id":"dccf943f444e1358","x":-700,"y":-1,"width":162,"height":61,"type":"text","text":"тату против капиталистов"}
 	],
 	"edges":[
 		{"id":"f6f9dfe1a252ae00","fromNode":"1e5f1e0b980a941c","fromSide":"bottom","toNode":"5689ecaa69ef7231","toSide":"top"},
@@ -45,6 +47,10 @@
 		{"id":"c4d261704c4be20e","fromNode":"d104f0125ceb1156","fromSide":"top","toNode":"d15ca85edf4d69b9","toSide":"bottom"},
 		{"id":"5ea9ea98bd378d0d","fromNode":"d15ca85edf4d69b9","fromSide":"right","toNode":"b4f357e8f4dc4bc9","toSide":"top"},
 		{"id":"10bbd371f2d811a9","fromNode":"280204e849eb7f5a","fromSide":"top","toNode":"6d2260893bf73db6","toSide":"bottom"},
-		{"id":"b95751dd833030fc","fromNode":"6d2260893bf73db6","fromSide":"top","toNode":"b4f357e8f4dc4bc9","toSide":"top"}
+		{"id":"b95751dd833030fc","fromNode":"6d2260893bf73db6","fromSide":"top","toNode":"b4f357e8f4dc4bc9","toSide":"top"},
+		{"id":"0db8eeb9f014482f","fromNode":"b18aa8d12f47b80e","fromSide":"left","toNode":"c0d5d51ff74ffc8e","toSide":"right"},
+		{"id":"fabadbf5a258f7c6","fromNode":"c0d5d51ff74ffc8e","fromSide":"bottom","toNode":"dccf943f444e1358","toSide":"top"},
+		{"id":"6ecf2a5c8e4948da","fromNode":"c0d5d51ff74ffc8e","fromSide":"top","toNode":"b4f357e8f4dc4bc9","toSide":"top"},
+		{"id":"3b509a5911f2d985","fromNode":"dccf943f444e1358","fromSide":"bottom","toNode":"b4f357e8f4dc4bc9","toSide":"bottom"}
 	]
 }
