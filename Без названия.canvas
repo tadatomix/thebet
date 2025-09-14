@@ -16,8 +16,8 @@
 		{"id":"ff993a9019464064","type":"text","text":"не агрессирует на людей в чате","x":-469,"y":96,"width":250,"height":60},
 		{"id":"3f5893d4a45b4549","type":"text","text":"кроме денчика","x":-610,"y":211,"width":250,"height":60},
 		{"id":"79ca7f5b71d85b1a","type":"text","text":"лесбиянка","x":-201,"y":271,"width":151,"height":50},
-		{"id":"c0d5d51ff74ffc8e","x":-660,"y":-144,"width":126,"height":60,"type":"text","text":"есть тату"},
-		{"id":"dccf943f444e1358","x":-700,"y":-1,"width":162,"height":61,"type":"text","text":"тату против капиталистов"}
+		{"id":"c0d5d51ff74ffc8e","type":"text","text":"есть тату","x":-660,"y":-144,"width":126,"height":60},
+		{"id":"dccf943f444e1358","type":"text","text":"тату против капиталистов","x":-700,"y":-1,"width":162,"height":61}
 	],
 	"edges":[
 		{"id":"f6f9dfe1a252ae00","fromNode":"1e5f1e0b980a941c","fromSide":"bottom","toNode":"5689ecaa69ef7231","toSide":"top"},
