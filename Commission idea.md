@@ -1,3 +1,7 @@
+---
+cssclasses:
+  - ".callout[data-callout^=\"figure\"] {\r padding: .5em;\r margin: .5em;\r & .callout-icon {\r  display: none;\r }\r & .callout-title {\r  padding: 0;\r  margin: 0;\r }\r & .callout-content {\r  --callout-content-background: rgba(0, 0, 0, 0);\r  padding: 0;\r  margin: 0;\r  border: none;\r  box-shadow: none;\r }\r}\r\r\r"
+---
 ## General information
 I expect commission to be semi-simple and shaded. There should be 2 posed characters, in a different poses. Aspect ratio, should be 1:1 or close to it, since there wouldn't be really much action, for having a different ratio. Image resolution is up to you, but I'd be genuinely like if it would be higher than 2048x2048, thank you.
 ## Background
@@ -10,6 +14,9 @@ Unlike the *semi*-canon Sydney, Wilford isn't a muscular man at all. This was th
 ##### Head
 Wilford wears an industrial piercing on his left ear. It's placed closer to the  top of his ear and tilted almost at 80°.
 ![[industrial-piercing_1200x630.webp|Lol]]This piercing looks almost like his, except that gem in the middle. Wilford's piercing should be a straight bar
+
+>[!IINFO] text
+>text
 ##### Body
 ##### Lower Body
 
