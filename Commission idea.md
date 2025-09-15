@@ -8,7 +8,10 @@ I expect commission to be semi-simple and shaded. There should be 2 posed charac
 I expect background being very simple. It should be white and similar to first Zootopia trailer (or The Stanley Parable). Just a plain white, with some slight shadows, just to show that the characters aren't floating, but standing on the ground. It shouldn't need to be `#ffffff`, if you have different light color, you can use it here. Yet so, I'd prefer it to be in colder tones, rather than warm ones.
 ## Characters
 ### Wilford Bronson
-
+||||
+|---|---|---|
+|text|text|text
+*These 4 images are already good at explaining him, as a character, but I'd like to give more details.*
 As you see by the name, Wilford is a character, based on the one from Echoverse. In this case, this is a Sydney Bronson. To not go with unnecessary lore description why he has a different name, I'll better explain other things. 
 ##### General
 Unlike the *semi*-canon Sydney, Wilford isn't a muscular man at all. This was the reason why have I asked about the ability to draw non-muscular characters. He is a 175cm (5'8") river otter, with a ~63kg (~139lbs) body weight. This makes him being thin and, if you want it to call that way, look like a twink. Besides that, his fur is more red, rather than brown.
