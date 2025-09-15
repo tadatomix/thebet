@@ -36,7 +36,7 @@ He doesn't have any footwear. No boots and no socks.
 ### Jacob Turner
 Jacob is an OC made by me. He is Wilford's buddy and another part of this artwork.
 ##### General
-Jacob shares the height with Wilford, but not the weight
+Jacob shares the height with Wilford, but not the weight. He is 80kg river otter
 
 
 
