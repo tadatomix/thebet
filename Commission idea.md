@@ -39,6 +39,9 @@ Jacob shares the height with Wilford, but not the weight. He is 80kg river otter
 ##### Head
 Jake doesn't wear any headgear, nor having any piercings, but he has dyed hair ends on his fringe, in a brick red color (`#e63917`). Besides that he has a teal (`#1fde98`) iris and white sclera
 
+##### Body
+
+
 
 
 
