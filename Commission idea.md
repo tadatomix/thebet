@@ -38,11 +38,18 @@ Jacob is an OC made by me. He is Wilford's buddy and another part of this artwor
 Jacob shares the height with Wilford, but not the weight. He is 80kg river otter. He has a sleeper build, and quite a rounded belly, since he doesn't sit on a diet. To addition, he prefers to hide his muscles under baggy clothes. This makes him look a bit more overweight rather than muscular.
 ##### Head
 Jake doesn't wear any headgear, nor having any piercings, but he has dyed hair ends on his fringe, in a brick red color (`#e63917`). Besides that he has a teal (`#1fde98`) iris and white sclera
-
 ##### Body
+Jacob wears a purple oversized hoodie, with a certain print. This print contains an eyeless wolf, which has billiard 8 ball in eye sockets. Eye sockets are bleeding. This print is all over this hoodie and looks like a vector painting, rather than a detailed art. 
+##### Lower Body
+He doesn't wear anything special, just a light-colored baggy jeans, with no print or any rip. They are being held by a white leather belt.
 
-
-
-
+## Composition
+Both characters should be placed next to each other, on the center of a canvas. 
+### Posing 
+Wilford is sideways standing on a single leg, smoking a cigarette. Cap is halfway covering his eyes. As mentioned in his description, he shouldn't wear any clothes, but a cap and jocks. He also puts his elbow on Jacob's shoulder, leaning all of his weight on it. Wil's pose is open, he looks nonchalantly. 
+Jacob standing towards the viewer, slightly sweating and stretching a smile, looking like everything is fine. His pose is close, one arm is in the pocket (up to you, should it be hoodie pocket or jeans pocket) and the other one is waving. Jake is wearing the mentioned clothes. 
+### Background details
+Can't remember should there be something important to add, but if you want to add a small details to not make the background fully white, I don't mind.
 
 [^1]: Roughness 0.33 = this result ![[Pasted image 20250915053936.png|128]]
+
