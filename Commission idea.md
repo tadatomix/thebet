@@ -16,8 +16,8 @@ As you see by the full name, Wilford is a character, based on the Echoverse. In 
 ##### General
 Unlike the *semi*-canon Sydney, Wilford isn't a muscular at all. This was the reason why have I asked about the ability to draw non-muscular characters. He is a 175cm (5'8") river otter, with a ~63kg (~139lbs) body weight. This makes him being thin and, if you want it to call that way, look like a twink. Besides that, his fur is more red, rather than brown.
 ##### Head
-Willford wears 
-Wilford wears an industrial piercing on his left ear. It's placed closer to the top of his ear and almost tilted at 90°.
+Wilford wears rectangle-ish fisherman cap. Except it's blinder is long enough to cover up his eyes. His cap is made of some semi-reflective material (not full glossiness, I think [^1]roughness ~0.33 in blender is quite feels similar), which gives nice patterns on sun glare. His cap looks quite used enough, since he got it
+Besides that, he also wears an industrial piercing on his left ear. It's placed closer to the top of his ear and almost tilted at 90°.
 ![[industrial-piercing_1200x630.webp|300]]
 *This piercing looks almost exactly like his, except that gem in the middle. Wilford's piercing should be a straight bar*
 
@@ -29,3 +29,4 @@ Wilford wears an industrial piercing on his left ear. It's placed closer to the 
 
 
 
+[^1]: Roughness 0.33 = this result 
