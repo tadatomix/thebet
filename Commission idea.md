@@ -14,9 +14,8 @@ Unlike the *semi*-canon Sydney, Wilford isn't a muscular man at all. This was th
 ##### Head
 Wilford wears an industrial piercing on his left ear. It's placed closer to the  top of his ear and tilted almost at 80°.
 ![[industrial-piercing_1200x630.webp|Lol]]This piercing looks almost like his, except that gem in the middle. Wilford's piercing should be a straight bar
-
->[!IINFO] text
->text
+>[!figure]
+>testtest
 ##### Body
 ##### Lower Body
 
