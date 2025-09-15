@@ -10,10 +10,11 @@ I expect background being very simple. It should be white and similar to first Z
 ### Wilford Bronson
 |![[Pasted image 20250915051217.png]]|![[Pasted image 20250915051254.png]]|![[Pasted image 20250915051311.png]]|
 |---|---|---|
-*These 4 images are already good at explaining him, as a character, but let me give a little bit more details.*
-As you see by the name, Wilford is a character, based on the one from Echoverse. In this case, this is a Sydney Bronson. To not go with unnecessary lore description why he has a different name, I'll better explain other things. 
+*These 3 images are already good at presenting him, as a character, but let me give a little bit more details.*
+
+As you see by the full name, Wilford is a character, based on the Echoverse. In this case, he is a Sydney Bronson. To not go with unnecessary lore description why he has a different name, I'll better explain the other things. 
 ##### General
-Unlike the *semi*-canon Sydney, Wilford isn't a muscular man at all. This was the reason why have I asked about the ability to draw non-muscular characters. He is a 175cm (5'8") river otter, with a ~63kg (~139lbs) body weight. This makes him being thin and, if you want it to call that way, look like a twink. Besides that, his fur is more red, rather than brown.
+Unlike the *semi*-canon Sydney, Wilford isn't a muscular at all. This was the reason why have I asked about the ability to draw non-muscular characters. He is a 175cm (5'8") river otter, with a ~63kg (~139lbs) body weight. This makes him being thin and, if you want it to call that way, look like a twink. Besides that, his fur is more red, rather than brown.
 ##### Head
 Wilford wears an industrial piercing on his left ear. It's placed closer to the  top of his ear and tilted almost at 80°.
 >[!figure] ![[industrial-piercing_1200x630.webp|Lol]]
