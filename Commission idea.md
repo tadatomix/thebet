@@ -46,5 +46,5 @@ Both characters should be placed next to each other, on the center of a canvas.
 Wilford is sideways standing on a single leg, smoking a cigarette. Cap is halfway covering his eyes. As mentioned in his description, he shouldn't wear any clothes, but a cap and jocks. He also puts his elbow on Jacob's shoulder, leaning all of his weight on it. Wil's pose is open, he looks nonchalantly. 
 Jacob standing towards the viewer, slightly sweating and stretching a smile, looking like everything is fine. His pose is close, one arm is in the pocket (up to you, should it be hoodie pocket or jeans pocket) and the other one is waving. Jake is wearing the mentioned clothes. 
 
-[^1]: Roughness 0.33 = this result ![[Pasted image 20250915053936.png|128]]
+[^1]: Roughness 0.33 = this result ![[Pasted image 20250915072744.png|128]]
 
