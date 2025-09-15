@@ -25,10 +25,11 @@ He also has red (somewhere around `#b43c26`) iris and white sclera.
 ##### Body
 As mentioned in [[Commission idea#General|General]], Wilford has a thin body. His body is pierced as well. 
 Wilford has a 2 titanium nipple ring piercings. They aren't circular, but rectangular, each ~6.7mm (~0.26 in) thick.
-He doesn't like wear any clothes at home, besides jockstrap. His jocks are gold yellow with a semi-thick (~3cm (~1.18 in)) white waistband. 
 ##### Lower Body
-Wilford legs are the only part, which can be considered muscular, for a bit. He is a good runner, and can do 23 squats. He doesn't have a really developed "bubble butt", yet so, this part, isn't flat at all.
-He doesn't have any footwear. No boots and no socks.
+Wilford legs are the only part, which can be considered muscular, for a bit. He is a good runner, and can do 23 squats. Due to that, his butt isn't flat.
+He doesn't like wear any clothes at home, besides mesh jockstrap. His jocks are gold yellow with a semi-thick (~3cm (~1.18 in)) white waistband. 
+
+He doesn't wear any footwear. No boots and no socks.
 ### 2. Jacob Turner
 Jacob is an OC made by me. He is Wilford's buddy and another part of this artwork.
 ##### General
