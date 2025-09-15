@@ -37,7 +37,8 @@ Jacob shares the height with Wilford, but not the weight. He is 80kg river otter
 ##### Head
 Jake doesn't wear any headgear, nor having any piercings, but he has dyed hair ends on his fringe, in a brick red color (`#e63917`). Besides that he has a teal (`#1fde98`) iris and white sclera
 ##### Body
-Jacob wears a purple oversized hoodie, with a certain print. This print contains an eyeless wolf, which has billiard 8 ball in eye sockets. Eye sockets are bleeding. This print is all over this hoodie and looks like a vector painting, rather than a detailed art. 
+Jacob wears a purple oversized cotton hoodie, with a certain print. This print contains an eyeless wolf, which has billiard 8 ball in eye sockets. Eye sockets are bleeding. This print is all over this hoodie and looks like a vector painting, rather than a detailed art. 
+He doesn't wear it's hood, leaving it on the back, but it's aglets are 
 ##### Lower Body
 He doesn't wear anything special, just a light-colored baggy jeans, with no print or any rip. They are being held by a white leather belt.
 
