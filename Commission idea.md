@@ -4,16 +4,16 @@ I expect commission to be semi-simple and shaded. There should be 2 posed charac
 ## Background
 I expect background being very simple. It should be white and similar to first Zootopia trailer (or The Stanley Parable). Just a plain white, with some slight shadows, just to show that the characters aren't floating, but standing on the ground. It shouldn't need to be exactly `#ffffff`, if you have different light color, you can use it here. Yet so, I'd prefer it to be in colder tones, rather than warm ones.
 ## Characters
-### Wilford Bronson
+### 1. Wilford Bronson
 | ![[Pasted image 20250915051217.png]] | ![[Pasted image 20250915051254.png]] | ![[Pasted image 20250915051311.png]] |
 | ------------------------------------ | ------------------------------------ | ------------------------------------ |
 *These 3 images are already good at presenting him, as a character, but let me give a little bit more details.*
 
 As you see by the full name, Wilford is a character, based on the Echoverse. In this case, he is a Sydney Bronson. To not go with unnecessary lore description why he has a different name, I'll better explain the other things. 
 ##### General
-Wilford has a dark red fur, rather than brown. Unlike the *semi*-canon Sydney, he isn't a muscular at all. This was the reason why have I asked about the ability to draw non-muscular characters. He is a 175cm (5'8") river otter, with a ~63kg (~139lbs) body weight. He doesn't have a visible abs, but some abdomen muscles are quite visible. This makes him being thin and, if you want it to call that way, look like a twink. 
+Wilford has a dark red fur, rather than brown. Unlike the *semi*-canon Sydney, he isn't a muscular at all. This was the reason why have I asked about the ability to draw non-muscular characters. He is a 175cm (5'8") river otter, with a ~63kg (~139lbs) body weight. He doesn't have a visible abs, but some abdomen muscles are still quite visible. This makes him being thin and, if you want it to call that way, look like a twink. 
 ##### Head
-Wilford wears rectangle-ish fisherman cap. Except it's blinder is long enough to cover up his eyes. His cap is made of some semi-reflective material (not full glossiness, I think roughness ~0.33[^1] in blender is quite feels similar), which gives nice patterns on sun glare. His cap looks quite used enough, since he got it almost 10 years ago.
+Wilford wears rectangle-ish fisherman cap. Except it's blinder is long enough to cover up his eyes. His cap is made of some semi-reflective material (not full glossiness, I think roughness ~0.33[^1] in blender is quite feels similar), which gives nice patterns and colors on sun glare. His cap looks quite used enough, since he got it almost 10 years ago, but he doesn't get rid of it, because he was one of the 1000 persons, who won it on some wrestling-related contest. That's why it has some sewed patch to it's side, which says says the serial number and the name of the wrestling event.
 ![[waxfishermanblack_1000x__10625__77510.webp|300]]
 *This man, wears the exact same cap, I want to see on Wilford.*
 
@@ -29,7 +29,7 @@ He doesn't like wear any clothes at home, besides jockstrap. His jocks are gold 
 ##### Lower Body
 Wilford legs are the only part, which can be considered muscular, for a bit. He is a good runner, and can do 23 squats. He doesn't have a really developed "bubble butt", yet so, this part, isn't flat at all.
 He doesn't have any footwear. No boots and no socks.
-### Jacob Turner
+### 2. Jacob Turner
 Jacob is an OC made by me. He is Wilford's buddy and another part of this artwork.
 ##### General
 Jacob shares the height with Wilford, but not the weight. He is 80kg river otter. He has a sleeper build, and quite a rounded belly, since he doesn't sit on a diet. To addition, he prefers to hide his muscles under baggy clothes. This makes him look a bit more overweight rather than muscular.
@@ -42,11 +42,8 @@ He doesn't wear anything special, just a light-colored baggy jeans, with no prin
 
 ## Composition
 Both characters should be placed next to each other, on the center of a canvas. 
-### Posing 
 Wilford is sideways standing on a single leg, smoking a cigarette. Cap is halfway covering his eyes. As mentioned in his description, he shouldn't wear any clothes, but a cap and jocks. He also puts his elbow on Jacob's shoulder, leaning all of his weight on it. Wil's pose is open, he looks nonchalantly. 
 Jacob standing towards the viewer, slightly sweating and stretching a smile, looking like everything is fine. His pose is close, one arm is in the pocket (up to you, should it be hoodie pocket or jeans pocket) and the other one is waving. Jake is wearing the mentioned clothes. 
-### Background details
-Can't remember should there be something important to add, but if you want to add a small details to not make the background fully white, I don't mind.
 
 [^1]: Roughness 0.33 = this result ![[Pasted image 20250915053936.png|128]]
 
