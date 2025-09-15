@@ -32,13 +32,12 @@ He doesn't like wear any clothes at home, besides jockstrap. His jocks are gold 
 ##### Lower Body
 Wilford legs are the only part, which can be considered muscular, for a bit. He is a good runner, and can do 23 squats. He doesn't have a really developed "bubble butt", yet so, this part, isn't flat at all.
 He doesn't have any footwear. No boots and no socks.
-
 ### Jacob Turner
 Jacob is an OC made by me. He is Wilford's buddy and another part of this artwork.
 ##### General
 Jacob shares the height with Wilford, but not the weight. He is 80kg river otter. He has a sleeper build, and quite a rounded belly, since he doesn't sit on a diet. To addition, he prefers to hide his muscles under baggy clothes. This makes him look a bit more overweight rather than muscular.
 ##### Head
-Jake doesn't wear any headgear, nor having any piercings, but he has dyed hair ends.
+Jake doesn't wear any headgear, nor having any piercings, but he has dyed hair ends on his fringe. Besides that
 
 
 
