@@ -8,8 +8,8 @@ I expect commission to be semi-simple and shaded. There should be 2 posed charac
 I expect background being very simple. It should be white and similar to first Zootopia trailer (or The Stanley Parable). Just a plain white, with some slight shadows, just to show that the characters aren't floating, but standing on the ground. It shouldn't need to be `#ffffff`, if you have different light color, you can use it here. Yet so, I'd prefer it to be in colder tones, rather than warm ones.
 ## Characters
 ### Wilford Bronson
-|![[Pasted image 20250915051217.png]]|![[Pasted image 20250915051254.png]]| label | label|
-|---|---|---|---|
+|![[Pasted image 20250915051217.png]]|![[Pasted image 20250915051254.png]]|![[Pasted image 20250915051311.png]]|
+|---|---|---|
 *These 4 images are already good at explaining him, as a character, but let me give a little bit more details.*
 As you see by the name, Wilford is a character, based on the one from Echoverse. In this case, this is a Sydney Bronson. To not go with unnecessary lore description why he has a different name, I'll better explain other things. 
 ##### General
