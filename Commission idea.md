@@ -1,5 +1,5 @@
 ## General information
-<p align="justify">I expect commission to be semi-simple and shaded. There should be 2 posed characters, in a different poses. Aspect ratio, should be 1:1 or close to it, since there wouldn't be really much action, for having a different ratio. Image resolution is up to you, but I'd be glad if it would be higher than 2048x2048.</p>
+I expect commission to be semi-simple and shaded. There should be 2 posed characters, in a different poses. Aspect ratio, should be 1:1 or close to it, since there wouldn't be really much action, for having a different ratio. Image resolution is up to you, but I'd be glad if it would be higher than 2048x2048.
 
 ![[comm_layout.png|center|480]]
 
@@ -44,6 +44,9 @@ Wilford's legs are the only part, which can be considered muscular, for a bit. H
 He doesn't like wear any clothes at home, besides some meshed jockstrap. His jocks are gold yellow (`#f9ad13`) with a semi-thick (~3cm (~1.18 in)) white waistband. 
 
 He doesn't wear any footwear. No boots and no socks.
+
+<div style="page-break-after: always;"></div>
+
 ### 2. Jacob Turner
 Jacob is an OC made by me. He is Wilford's buddy and another part of this artwork.
 ##### General
