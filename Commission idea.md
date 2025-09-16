@@ -34,20 +34,23 @@ Wilford wears rectangle-ish fisherman cap. Except it's blinder is long enough to
 
 He also has red (somewhere around `#b43c26`) iris and white sclera.
 ##### Body
-As mentioned in [[Commission idea#General|General]], Wilford has a thin body, which is having some piercings as well. 
+As stated in [[Commission idea#General|General]], Wilford has a thin body, which is having some piercings as well. 
 Wilford has a 2 titanium rectangular nipple captive bead ring piercings, each ~6.7mm (~0.26 in) thick.
 ![[484499170.webp|center|300]]
 <center><i>Example of how one looks like</i></center>
 
 ##### Lower Body
-Wilford legs are the only part, which can be considered muscular, for a bit. He is a good runner, and can do 23 squats. Due to that, his butt isn't flat.
-He doesn't like wear any clothes at home, besides some meshed jockstrap. His jocks are gold yellow with a semi-thick (~3cm (~1.18 in)) white waistband. 
+Wilford's legs are the only part, which can be considered muscular, for a bit. He is a good runner, and can do 23 squats. Due to that, his butt isn't flat.
+He doesn't like wear any clothes at home, besides some meshed jockstrap. His jocks are gold yellow (`#f9ad13`) with a semi-thick (~3cm (~1.18 in)) white waistband. 
 
 He doesn't wear any footwear. No boots and no socks.
+
+<div style="page-break-after: always;"></div>
+
 ### 2. Jacob Turner
 Jacob is an OC made by me. He is Wilford's buddy and another part of this artwork.
 ##### General
-Jacob shares the height with Wilford, but not the weight. He is 80kg river otter. He has a sleeper build, and quite a rounded belly, since he doesn't sit on a diet. He has a very dark, close to black, fur To addition, he prefers to hide his muscles under baggy clothes. This makes him look a bit more overweight rather than muscular.
+Jacob shares the same height with Wilford, but not the weight. He is an 80kg river otter. He has a sleeper build, and a slightly rounded belly, since he isn't on a diet. He has a very dark, close to black (`d`), fur. To addition, he prefers to hide his muscles under baggy clothes. This makes him look a bit more overweight rather than muscular.
 ##### Head
 Jake doesn't wear any headgear, nor having any piercings, but he has dyed hair ends on his fringe, in a brick red color (`#e63917`). Besides that he has a teal (`#1fde98`) iris and white sclera
 ##### Body
