@@ -26,10 +26,11 @@ Wilford has a dark red fur, rather than brown. Unlike the *semi*-canon Sydney, h
 ##### Head
 Wilford wears rectangle-ish fisherman cap. Except it's blinder is long enough to cover up his eyes. His cap is made of some semi-reflective material (not full glossiness, I think roughness ~0.33[^1] in blender is quite feels similar), which gives nice patterns and colors on sun glare. His cap looks quite used enough, since he got it almost 10 years ago, but he doesn't get rid of it, because he was one of the 1000 persons, who won it on some wrestling-related contest. That's why it has some sewed patch to it's side, which says says the serial number and the name of the wrestling event.
 ![[waxfishermanblack_1000x__10625__77510.webp|center|300]]
-*This man, wears the exact same cap, I would like to see on Wilford.*
+<center><i>This man, wears the exact same cap, I would like to see on Wilford.</i></center>
+
  Wilford also wears an industrial piercing on his left ear. It's placed closer to the top of his ear and. It's a silver barbell, with 2 bulbs on start and the end, horizontally going throughout his ear.
 ![[industrial-piercing_1200x630.webp|center|300]]
-*This piercing looks almost exactly like his, except that gem in the middle. Wilford's piercing should be a straight bar.*
+<center><i>This piercing looks almost exactly like his, except that gem in the middle. Wilford's piercing should be a straight bar.</i></center>
 
 He also has red (somewhere around `#b43c26`) iris and white sclera.
 ##### Body
