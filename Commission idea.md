@@ -48,22 +48,30 @@ Jacob is an OC made by me. He is Wilford's buddy and another part of this artwor
 ##### General
 Jacob shares the same height with Wilford, but not the weight. He is an 80kg river otter. He has a sleeper build, and a slightly rounded belly, since he isn't on a diet. He has a very dark, close to black (`#0a0807`), fur. To addition, he prefers to hide his muscles under baggy clothes. This makes him look a bit more overweight rather than muscular.
 ##### Head
-Jake doesn't wear any headgear, nor having any piercings, but he has dyed hair ends on his fringe, in a brick red color (`#e63917`). Besides that he has a teal (`#1fde98`) iris and white sclera.
+He doesn't wear any headgear, nor having any piercings, but he has dyed hair ends on his fringe, in a brick red color (`#e63917`). Besides that he has a teal (`#1fde98`) iris with a white sclera.
 ##### Body
 Jacob wears a purple (`#572675`) oversized cotton hoodie, with a certain print. This print contains an eyeless wolf, which has billiard 8 ball instead of eyeballs. Eye sockets are bleeding. This print is all over this hoodie and looks like a vector painting, rather than a detailed art. 
 He doesn't wear it's hood, leaving it on the back, but it's aglets are black colored plastic with many bite marks. Even if he bought this hoodie 5 years ago, it doesn't look washed out. It's even better to say that it looks like freshly new.
 ![[20230325-deecafcc71313598-403626007427-mp4-264-ld-unlimit-taobao-mp4.webp|center|300]]
 <center><i>Color isn't looking same, but design kinda fits him</i></center>
+
 ##### Lower Body
 He doesn't wear anything special, just a light-colored baggy jeans, with no print or any rip. They are being held by a white leather belt. They look new as well.
+
+Jacob doesn't wear any footwear as well.
 
 |![[61wcjdSyxHL.jpg]]|![[SAKU130-35whi-40gol-U-1_1024x1024@2x.webp]]|
 | :---: | :---: |
 |*Exact type of jeans, that fits Jake*|*Example of a white belt*|
+
+<div style="page-break-after: always;"></div>
+
 ## Composition
 Both characters should be placed next to each other, on the center of a canvas. 
 Wilford is sideways standing on a single leg, smoking a cigarette. Cap is halfway covering his eyes. As mentioned in his description, he shouldn't wear any clothes, but a cap and jocks. He also puts his elbow on Jacob's shoulder, leaning all of his weight on it. Wil's pose is open, he looks nonchalantly. 
 Jacob standing towards the viewer, slightly sweating and stretching a smile, looking like everything is fine. His pose, on the other hand, feels closed-off. One arm is in the pocket (up to you, should it be hoodie pocket or jeans pocket) and the other one is waving. Jake is wearing the mentioned clothes.
+![[screen.png|center]]
+<center><i>Approximate composition concept</i></center>
 
 [^1]: Roughness 0.33 = this result  ![[Pasted image 20250915072744.png|128]]
 
