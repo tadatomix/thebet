@@ -8,8 +8,7 @@
 <div style="page-break-after: always;"></div>
 
 ## Background
-<p align="justify">I expect background being very simple. It should be white and similar to The Stanley Parable. Just a plain white, with some slight shadows, just to show that the characters aren't floating, but standing on the ground. It shouldn't need to be exactly `#ffffff`, if you have different light color, you can use it here. Yet so, I'd prefer it to be in colder tones, rather than warm ones.</p>
-
+I expect background being very simple. It should be white and similar to The Stanley Parable. Just a plain white, with some slight shadows, just to show that the characters aren't floating, but standing on the ground. It shouldn't need to be exactly `#ffffff`, if you have different light color, you can use it here. Yet so, I'd prefer it to be in colder tones, rather than warm ones.
 ![[20250916222048_1.jpg|center]]
 <center><i>Background example</i></center>
 
@@ -21,28 +20,22 @@
 | ------------------------------------ | ------------------------------------ | ------------------------------------ |
 <center><i>These 3 images are already good at presenting him, as a character, but let me give a little bit more details.</i></center>
 
-<p align="justify">As you see by the full name, Wilford is a character, based on the Echoverse. In this case, he is a Sydney Bronson. To not go with unnecessary lore description why he has a different name, I'll better explain the other things. </p>
-
+As you see by the full name, Wilford is a character, based on the Echoverse. In this case, he is a Sydney Bronson. To not go with unnecessary lore description why he has a different name, I'll better explain the other things.
 ##### General
-<p align="justify">Wilford has a dark red fur, rather than brown. Unlike the *semi*-canon Sydney, he isn't a muscular at all. This was the reason why have I asked about the ability to draw non-muscular characters. He is a 175cm (5'8") river otter, with a ~63kg (~139lbs) body weight. He doesn't have a visible abs, but some abdomen muscles are still quite visible. This makes him being thin and, if you want it to call that way, look like a twink. </p>
-
+Wilford has a dark red fur, rather than brown. Unlike the *semi*-canon Sydney, he isn't a muscular at all. This was the reason why have I asked about the ability to draw non-muscular characters. He is a 175cm (5'8") river otter, with a ~63kg (~139lbs) body weight. He doesn't have a visible abs, but some abdomen muscles are still quite visible. This makes him being thin and, if you want it to call that way, look like a twink. 
 ##### Head
-<p align="justify">Wilford wears rectangle-ish fisherman cap. Except it's blinder is long enough to cover up his eyes. His cap is made of some semi-reflective material (not full glossiness, I think roughness ~0.33[^1] in blender is quite feels similar), which gives nice patterns and colors on sun glare. His cap looks quite used enough, since he got it almost 10 years ago, but he doesn't get rid of it, because he was one of the 1000 persons, who won it on some wrestling-related contest. That's why it has some sewed patch to it's side, which says says the serial number and the name of the wrestling event.</p>
-
+Wilford wears rectangle-ish fisherman cap. Except it's blinder is long enough to cover up his eyes. His cap is made of some semi-reflective material (not full glossiness, I think roughness ~0.33[^1] in blender is quite feels similar), which gives nice patterns and colors on sun glare. His cap looks quite used enough, since he got it almost 10 years ago, but he doesn't get rid of it, because he was one of the 1000 persons, who won it on some wrestling-related contest. That's why it has some sewed patch to it's side, which says says the serial number and the name of the wrestling event.
 ![[waxfishermanblack_1000x__10625__77510.webp|center|300]]
 <center><i>This man, wears the exact same cap, I would like to see on Wilford.</i></center>
 
-<p align="justify">Wilford also wears an industrial piercing on his left ear. It's placed closer to the top of his ear and. It's a silver barbell, with 2 bulbs on start and the end, horizontally going throughout his ear.</p>
-
+Wilford also wears an industrial piercing on his left ear. It's placed closer to the top of his ear and. It's a silver barbell, with 2 bulbs on start and the end, horizontally going throughout his ear.
 ![[industrial-piercing_1200x630.webp|center|300]]
 <center><i>This piercing looks almost exactly like his, except that gem in the middle. Wilford's piercing should be a straight bar.</i></center>
 
-<p align="justify">He also has red (somewhere around `#b43c26`) iris and white sclera.</p>
-
+He also has red (somewhere around `#b43c26`) iris and white sclera.
 ##### Body
-<p align="justify">As stated in [[Commission idea#General|General]], Wilford has a thin body, which is having some piercings as well. 
-Wilford has a 2 titanium rectangular nipple captive bead ring piercings, each ~6.7mm (~0.26 in) thick.</p>
-
+As stated in [[Commission idea#General|General]], Wilford has a thin body, which is having some piercings as well. 
+Wilford has a 2 titanium rectangular nipple captive bead ring piercings, each ~6.7mm (~0.26 in) thick.
 ![[484499170.webp|center|300]]
 <center><i>Example of how one looks like</i></center>
 
