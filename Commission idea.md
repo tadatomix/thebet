@@ -5,8 +5,6 @@ I expect commission to be semi-simple and shaded. There should be 2 posed charac
 
 <center><i>Approximate commission layout</i></center>
 
-<div style="page-break-after: always;"></div>
-
 ## Background
 I expect background being very simple. It should be white, with some slight shadows, just to show that the characters aren't floating.
 
