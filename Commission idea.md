@@ -35,7 +35,9 @@ Wilford wears rectangle-ish fisherman cap. Except it's blinder is long enough to
 He also has red (somewhere around `#b43c26`) iris and white sclera.
 ##### Body
 As mentioned in [[Commission idea#General|General]], Wilford has a thin body, which is having some piercings as well. 
-Wilford has a 2 titanium rectangular nipple ring piercings, each ~6.7mm (~0.26 in) thick.
+Wilford has a 2 titanium rectangular nipple captive bead ring piercings, each ~6.7mm (~0.26 in) thick.
+![[484499170.webp|center|300]]
+<center><i>Example of how one looks like</i></center>
 
 ##### Lower Body
 Wilford legs are the only part, which can be considered muscular, for a bit. He is a good runner, and can do 23 squats. Due to that, his butt isn't flat.
