@@ -12,11 +12,14 @@ I expect background being very simple. It should be white and similar to first Z
 ![[20250916222048_1.jpg|center]]
 <center><i>Background example</i></center>
 
+<div style="page-break-after: always;"></div>
+
 ## Characters
 ### 1. Wilford Bronson
 | ![[Pasted image 20250915051217.png]] | ![[Pasted image 20250915051254.png]] | ![[Pasted image 20250915051311.png]] |
 | ------------------------------------ | ------------------------------------ | ------------------------------------ |
-*These 3 images are already good at presenting him, as a character, but let me give a little bit more details.*
+<center><i>These 3 images are already good at presenting him, as a character, but let me give a little bit more details.</i></center>
+
 As you see by the full name, Wilford is a character, based on the Echoverse. In this case, he is a Sydney Bronson. To not go with unnecessary lore description why he has a different name, I'll better explain the other things. 
 ##### General
 Wilford has a dark red fur, rather than brown. Unlike the *semi*-canon Sydney, he isn't a muscular at all. This was the reason why have I asked about the ability to draw non-muscular characters. He is a 175cm (5'8") river otter, with a ~63kg (~139lbs) body weight. He doesn't have a visible abs, but some abdomen muscles are still quite visible. This makes him being thin and, if you want it to call that way, look like a twink. 
@@ -53,5 +56,5 @@ Both characters should be placed next to each other, on the center of a canvas.
 Wilford is sideways standing on a single leg, smoking a cigarette. Cap is halfway covering his eyes. As mentioned in his description, he shouldn't wear any clothes, but a cap and jocks. He also puts his elbow on Jacob's shoulder, leaning all of his weight on it. Wil's pose is open, he looks nonchalantly. 
 Jacob standing towards the viewer, slightly sweating and stretching a smile, looking like everything is fine. His pose is close, one arm is in the pocket (up to you, should it be hoodie pocket or jeans pocket) and the other one is waving. Jake is wearing the mentioned clothes. 
 
-[^1]: Roughness 0.33 = this result ![[Pasted image 20250915072744.png|128]]
+[^1]: Roughness 0.33 = this result  ![[Pasted image 20250915072744.png|128]]
 
