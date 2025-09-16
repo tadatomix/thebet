@@ -9,10 +9,8 @@
 
 ## Background
 I expect background being very simple. It should be white and similar to first Zootopia trailer (or The Stanley Parable). Just a plain white, with some slight shadows, just to show that the characters aren't floating, but standing on the ground. It shouldn't need to be exactly `#ffffff`, if you have different light color, you can use it here. Yet so, I'd prefer it to be in colder tones, rather than warm ones.
-
-|![[20250916222048_1.jpg]]|smth|
-|---|---|
-<center><i>Background examples</i></center>
+![[20250916222048_1.jpg|center]]
+<center><i>Background example</i></center>
 
 ## Characters
 ### 1. Wilford Bronson
