@@ -36,6 +36,7 @@ He also has red (somewhere around `#b43c26`) iris and white sclera.
 ##### Body
 As mentioned in [[Commission idea#General|General]], Wilford has a thin body, which is having some piercings as well. 
 Wilford has a 2 titanium rectangular nipple ring piercings, each ~6.7mm (~0.26 in) thick.
+
 ##### Lower Body
 Wilford legs are the only part, which can be considered muscular, for a bit. He is a good runner, and can do 23 squats. Due to that, his butt isn't flat.
 He doesn't like wear any clothes at home, besides some meshed jockstrap. His jocks are gold yellow with a semi-thick (~3cm (~1.18 in)) white waistband. 
