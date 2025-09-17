@@ -35,4 +35,4 @@
 	3. transition to verse feels very random (18th seconds)
 	4. overlaps on 25th second is odd. too many overlaps should've been avoided
 6. underworld
-	1. 
+	1. 07:55:609 needs more emphasis placement
