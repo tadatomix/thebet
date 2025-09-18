@@ -66,8 +66,34 @@
 			5. Quad Out
 			6. Quad InOut
 			7. Cubic In
-			8. CubicOut
-			9. 
+			8. Cubic Out
+			9. Cubic InOut
+			10. Quart In
+			11. Quart Out
+			12. Quart InOut
+			13. Quint In
+			14. Quint Out
+			15. Quint InOut
+			16. Sine In
+			17. Sine Out
+			18. Sine InOut
+			19. Expo In
+			20. Expo Out
+			21. Expo InOut
+			22. Circ In
+			23. Circ Out
+			24. Circ InOut
+			25. Elastic In
+			26. Elastic Out
+			27. Elastic Half Out
+			28. Elastic Quarter Out
+			29. Elastic InOut
+			30. Back In
+			31. Back Out
+			32. Back InOut
+			33. Bounce In
+			34. Bounce Out
+			35. Bounce InOut
 		3. Start Time
 		4. End Time
 2. Animation
