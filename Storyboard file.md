@@ -207,3 +207,50 @@
 		5. Overlay
 	3. File Path
 	4. Volume
+
+```json
+{
+	"layers": [
+		{
+			"layerName": Background,
+			"layerContents": [
+				{
+					"objectType": Sprite,
+					"objectOrigin": Centre,
+					"objectName": "image.png",
+					"objectCoordinates": "19,28",
+					"objectEvents": [
+						{
+							"eventType": Move,
+							"eventEasing": ExpoOut,
+							"eventTime": 0,
+							"eventDuration": 727,
+							"eventStartKey":"320,240",
+							"eventEndKey":"315,250",
+						},
+						{
+							"eventType": Rotate,
+							"eventEasing": BackOut,
+							"eventTime": 0,
+							"eventDuration": 727,
+							"eventStartKey":"7",
+							"eventEndKey":"-3",
+						}
+					]
+				}
+			]
+		},
+		{
+			"layerName": Fail,
+			"layerContents": [
+				{
+					"objectType": Sample,
+					"objectTime": 3999,
+					"objectName": "sample.wav",
+					"objectVolume": 39
+				}
+			]
+		},
+	]
+}
+```
